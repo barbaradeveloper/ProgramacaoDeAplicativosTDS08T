@@ -1,0 +1,13 @@
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\bin\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.exe
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\bin\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.deps.json
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\bin\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.runtimeconfig.json
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\bin\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.runtimeconfig.dev.json
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\bin\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.dll
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\bin\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.pdb
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\obj\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.csprojAssemblyReference.cache
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\obj\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.AssemblyInfoInputs.cache
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\obj\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.AssemblyInfo.cs
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\obj\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.csproj.CoreCompileInputs.cache
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\obj\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.dll
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\obj\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.pdb
+C:\Users\bdsma\Documents\Atividades - Programação de Aplicativos\Atividade_3_BD_BárbaradeSousaTDS08T\Atividade_3_BD_BárbaradeSousaTDS08T\obj\Debug\netcoreapp3.1\Atividade_3_BD_BárbaradeSousaTDS08T.genruntimeconfig.cache
