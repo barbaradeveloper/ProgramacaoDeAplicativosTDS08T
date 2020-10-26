@@ -1,0 +1,13 @@
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\bin\Debug\netcoreapp3.1\Atividade_12_Exercício_2.exe
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\bin\Debug\netcoreapp3.1\Atividade_12_Exercício_2.deps.json
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\bin\Debug\netcoreapp3.1\Atividade_12_Exercício_2.runtimeconfig.json
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\bin\Debug\netcoreapp3.1\Atividade_12_Exercício_2.runtimeconfig.dev.json
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\bin\Debug\netcoreapp3.1\Atividade_12_Exercício_2.dll
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\bin\Debug\netcoreapp3.1\Atividade_12_Exercício_2.pdb
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\obj\Debug\netcoreapp3.1\Atividade_12_Exercício_2.csprojAssemblyReference.cache
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\obj\Debug\netcoreapp3.1\Atividade_12_Exercício_2.AssemblyInfoInputs.cache
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\obj\Debug\netcoreapp3.1\Atividade_12_Exercício_2.AssemblyInfo.cs
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\obj\Debug\netcoreapp3.1\Atividade_12_Exercício_2.csproj.CoreCompileInputs.cache
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\obj\Debug\netcoreapp3.1\Atividade_12_Exercício_2.dll
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\obj\Debug\netcoreapp3.1\Atividade_12_Exercício_2.pdb
+C:\Users\bdsma\Documents\ProgramacaoDeAplicativos-TDS08T\Atividade_12_Exercício_2\Atividade_12_Exercício_2\obj\Debug\netcoreapp3.1\Atividade_12_Exercício_2.genruntimeconfig.cache
