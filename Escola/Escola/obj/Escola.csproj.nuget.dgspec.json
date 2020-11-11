@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\Atividade_13_BárbaradeSousa_TDS08T\\Atividade_13_BárbaradeSousa_TDS08T\\Atividade_13_BárbaradeSousa_TDS08T.csproj": {}
+    "C:\\Users\\bdsma\\Desktop\\Escola\\Escola\\Escola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\Atividade_13_BárbaradeSousa_TDS08T\\Atividade_13_BárbaradeSousa_TDS08T\\Atividade_13_BárbaradeSousa_TDS08T.csproj": {
+    "C:\\Users\\bdsma\\Desktop\\Escola\\Escola\\Escola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\Atividade_13_BárbaradeSousa_TDS08T\\Atividade_13_BárbaradeSousa_TDS08T\\Atividade_13_BárbaradeSousa_TDS08T.csproj",
-        "projectName": "Atividade_13_BárbaradeSousa_TDS08T",
-        "projectPath": "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\Atividade_13_BárbaradeSousa_TDS08T\\Atividade_13_BárbaradeSousa_TDS08T\\Atividade_13_BárbaradeSousa_TDS08T.csproj",
+        "projectUniqueName": "C:\\Users\\bdsma\\Desktop\\Escola\\Escola\\Escola.csproj",
+        "projectName": "Escola",
+        "projectPath": "C:\\Users\\bdsma\\Desktop\\Escola\\Escola\\Escola.csproj",
         "packagesPath": "C:\\Users\\bdsma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\Atividade_13_BárbaradeSousa_TDS08T\\Atividade_13_BárbaradeSousa_TDS08T\\obj\\",
+        "outputPath": "C:\\Users\\bdsma\\Desktop\\Escola\\Escola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bdsma\\AppData\\Roaming\\NuGet\\NuGet.Config",
