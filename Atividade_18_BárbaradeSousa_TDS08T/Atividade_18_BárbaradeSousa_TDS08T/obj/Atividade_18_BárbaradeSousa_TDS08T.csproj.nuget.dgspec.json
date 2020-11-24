@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\SA_01_BárbaradeSousa_TDS08T\\SA_01_BárbaradeSousa_TDS08T\\SA_01_BárbaradeSousa_TDS08T.csproj": {}
+    "C:\\Users\\bdsma\\Documents\\Atividade_18_BárbaradeSousa_TDS08T\\Atividade_18_BárbaradeSousa_TDS08T\\Atividade_18_BárbaradeSousa_TDS08T.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\SA_01_BárbaradeSousa_TDS08T\\SA_01_BárbaradeSousa_TDS08T\\SA_01_BárbaradeSousa_TDS08T.csproj": {
+    "C:\\Users\\bdsma\\Documents\\Atividade_18_BárbaradeSousa_TDS08T\\Atividade_18_BárbaradeSousa_TDS08T\\Atividade_18_BárbaradeSousa_TDS08T.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\SA_01_BárbaradeSousa_TDS08T\\SA_01_BárbaradeSousa_TDS08T\\SA_01_BárbaradeSousa_TDS08T.csproj",
-        "projectName": "SA_01_BárbaradeSousa_TDS08T",
-        "projectPath": "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\SA_01_BárbaradeSousa_TDS08T\\SA_01_BárbaradeSousa_TDS08T\\SA_01_BárbaradeSousa_TDS08T.csproj",
+        "projectUniqueName": "C:\\Users\\bdsma\\Documents\\Atividade_18_BárbaradeSousa_TDS08T\\Atividade_18_BárbaradeSousa_TDS08T\\Atividade_18_BárbaradeSousa_TDS08T.csproj",
+        "projectName": "Atividade_18_BárbaradeSousa_TDS08T",
+        "projectPath": "C:\\Users\\bdsma\\Documents\\Atividade_18_BárbaradeSousa_TDS08T\\Atividade_18_BárbaradeSousa_TDS08T\\Atividade_18_BárbaradeSousa_TDS08T.csproj",
         "packagesPath": "C:\\Users\\bdsma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\SA_01_BárbaradeSousa_TDS08T\\SA_01_BárbaradeSousa_TDS08T\\obj\\",
+        "outputPath": "C:\\Users\\bdsma\\Documents\\Atividade_18_BárbaradeSousa_TDS08T\\Atividade_18_BárbaradeSousa_TDS08T\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bdsma\\AppData\\Roaming\\NuGet\\NuGet.Config",
