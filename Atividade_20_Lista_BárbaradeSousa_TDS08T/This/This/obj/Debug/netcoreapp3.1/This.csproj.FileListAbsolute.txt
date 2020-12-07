@@ -1,0 +1,12 @@
+C:\Users\bdsma\Documents\Atividade_20_Lista_BárbaradeSousa_TDS08T\This\This\bin\Debug\netcoreapp3.1\This.exe
+C:\Users\bdsma\Documents\Atividade_20_Lista_BárbaradeSousa_TDS08T\This\This\bin\Debug\netcoreapp3.1\This.deps.json
+C:\Users\bdsma\Documents\Atividade_20_Lista_BárbaradeSousa_TDS08T\This\This\bin\Debug\netcoreapp3.1\This.runtimeconfig.json
+C:\Users\bdsma\Documents\Atividade_20_Lista_BárbaradeSousa_TDS08T\This\This\bin\Debug\netcoreapp3.1\This.runtimeconfig.dev.json
+C:\Users\bdsma\Documents\Atividade_20_Lista_BárbaradeSousa_TDS08T\This\This\bin\Debug\netcoreapp3.1\This.dll
+C:\Users\bdsma\Documents\Atividade_20_Lista_BárbaradeSousa_TDS08T\This\This\bin\Debug\netcoreapp3.1\This.pdb
+C:\Users\bdsma\Documents\Atividade_20_Lista_BárbaradeSousa_TDS08T\This\This\obj\Debug\netcoreapp3.1\This.AssemblyInfoInputs.cache
+C:\Users\bdsma\Documents\Atividade_20_Lista_BárbaradeSousa_TDS08T\This\This\obj\Debug\netcoreapp3.1\This.AssemblyInfo.cs
+C:\Users\bdsma\Documents\Atividade_20_Lista_BárbaradeSousa_TDS08T\This\This\obj\Debug\netcoreapp3.1\This.csproj.CoreCompileInputs.cache
+C:\Users\bdsma\Documents\Atividade_20_Lista_BárbaradeSousa_TDS08T\This\This\obj\Debug\netcoreapp3.1\This.dll
+C:\Users\bdsma\Documents\Atividade_20_Lista_BárbaradeSousa_TDS08T\This\This\obj\Debug\netcoreapp3.1\This.pdb
+C:\Users\bdsma\Documents\Atividade_20_Lista_BárbaradeSousa_TDS08T\This\This\obj\Debug\netcoreapp3.1\This.genruntimeconfig.cache
