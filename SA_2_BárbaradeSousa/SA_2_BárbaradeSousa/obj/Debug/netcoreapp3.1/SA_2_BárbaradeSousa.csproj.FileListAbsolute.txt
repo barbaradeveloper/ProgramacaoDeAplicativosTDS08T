@@ -1,0 +1,13 @@
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\bin\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.exe
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\bin\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.deps.json
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\bin\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.runtimeconfig.json
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\bin\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.runtimeconfig.dev.json
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\bin\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.dll
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\bin\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.pdb
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\obj\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.csprojAssemblyReference.cache
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\obj\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.AssemblyInfoInputs.cache
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\obj\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.AssemblyInfo.cs
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\obj\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.csproj.CoreCompileInputs.cache
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\obj\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.dll
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\obj\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.pdb
+C:\Users\bdsma\Documents\SA_2_BárbaradeSousa\SA_2_BárbaradeSousa\obj\Debug\netcoreapp3.1\SA_2_BárbaradeSousa.genruntimeconfig.cache
