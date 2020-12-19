@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bdsma\\Documents\\SA_2_BárbaradeSousa\\SA_2_BárbaradeSousa\\SA_2_BárbaradeSousa.csproj",
+      "projectUniqueName": "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\SA_2_BárbaradeSousa\\SA_2_BárbaradeSousa\\SA_2_BárbaradeSousa.csproj",
       "projectName": "SA_2_BárbaradeSousa",
-      "projectPath": "C:\\Users\\bdsma\\Documents\\SA_2_BárbaradeSousa\\SA_2_BárbaradeSousa\\SA_2_BárbaradeSousa.csproj",
+      "projectPath": "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\SA_2_BárbaradeSousa\\SA_2_BárbaradeSousa\\SA_2_BárbaradeSousa.csproj",
       "packagesPath": "C:\\Users\\bdsma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bdsma\\Documents\\SA_2_BárbaradeSousa\\SA_2_BárbaradeSousa\\obj\\",
+      "outputPath": "C:\\Users\\bdsma\\Documents\\ProgramacaoDeAplicativosTDS08T\\SA_2_BárbaradeSousa\\SA_2_BárbaradeSousa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bdsma\\AppData\\Roaming\\NuGet\\NuGet.Config",
