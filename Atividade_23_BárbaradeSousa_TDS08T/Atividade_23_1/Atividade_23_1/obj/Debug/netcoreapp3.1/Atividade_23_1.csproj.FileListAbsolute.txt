@@ -1,0 +1,13 @@
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\bin\Debug\netcoreapp3.1\Atividade_23_1.exe
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\bin\Debug\netcoreapp3.1\Atividade_23_1.deps.json
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\bin\Debug\netcoreapp3.1\Atividade_23_1.runtimeconfig.json
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\bin\Debug\netcoreapp3.1\Atividade_23_1.runtimeconfig.dev.json
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\bin\Debug\netcoreapp3.1\Atividade_23_1.dll
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\bin\Debug\netcoreapp3.1\Atividade_23_1.pdb
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\obj\Debug\netcoreapp3.1\Atividade_23_1.csprojAssemblyReference.cache
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\obj\Debug\netcoreapp3.1\Atividade_23_1.AssemblyInfoInputs.cache
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\obj\Debug\netcoreapp3.1\Atividade_23_1.AssemblyInfo.cs
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\obj\Debug\netcoreapp3.1\Atividade_23_1.csproj.CoreCompileInputs.cache
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\obj\Debug\netcoreapp3.1\Atividade_23_1.dll
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\obj\Debug\netcoreapp3.1\Atividade_23_1.pdb
+C:\Users\bdsma\Documents\Atividade_23_1\Atividade_23_1\obj\Debug\netcoreapp3.1\Atividade_23_1.genruntimeconfig.cache
